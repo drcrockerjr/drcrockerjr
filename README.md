@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drcrockerjr
 - 👀 I’m interested in embedded system and the internet of things.
-- 🌱 I’m currently learning more abou the internet of things by using php and javascript to host a server on my raspberrypi.
+- 🌱 I’m currently learning more about the internet of things by using php and javascript to host a server on my raspberrypi.
 - 📫 How to reach me:
 
 Email: Drcrockerjr@gmail.com
