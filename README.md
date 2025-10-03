@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @drcrockerjr
-- 👀 I’m interested in embedded system and the internet of things.
-- 🌱 I’m currently learning more about the internet of things by using php and javascript to host a server on my raspberrypi.
+# Who am I?
+Hi, I’m @drcrockerjr I am a current Masters Student studying Electrical and Computer Engineering at Oregon State University. My current research is focused on developing a neural network based closed loop framework for adaptive MIMO beamforming calibration that compensates for hardware imperfections in antenna arrays using AoA feedback.
+
+# Education:
+  - Pursuing MS in Elctrical and Computer Engineering from Oregon State University
+  - Obtained BS in Elctrical and Computer Engineering from Oregon State University
+
+# Interests
+
+- Analog and Digital Communication Systems
+- Channel Coding
+- Applied Deep Learning
+- Estimation Theory
+
+  
+  
 - 📫 How to reach me:
 
 Email: Drcrockerjr@gmail.com
