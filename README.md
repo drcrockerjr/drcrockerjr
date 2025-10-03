@@ -11,10 +11,11 @@ Hi, I’m @drcrockerjr I am a current Masters Student studying Electrical and Co
 - Channel Coding
 - Applied Deep Learning
 - Estimation Theory
+- Test and Measurement
 
   
   
-- 📫 How to reach me:
+# How to reach me:
 
 Email: Drcrockerjr@gmail.com
 
